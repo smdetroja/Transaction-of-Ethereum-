@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "5b323ff1-9042-4f6a-b7da-27e14b220a4c",
+    "colName": "Krypt",
+    "created": "2022-10-27T05:12:54.568Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "9319cc9b-b67e-4771-af33-753d9b66646e",
+        "name": "Endpoints",
+        "containerId": "",
+        "created": "2022-10-27T05:13:03.756Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]
